@@ -81,4 +81,3 @@ grgit = { id = "org.ajoberstar.grgit", version.ref = "grgit" }
 spotless = { id = "com.diffplug.spotless", version.ref = "spotless" }
 publish = { id = "com.vanniktech.maven.publish", version.ref = "publish" }
 runPaper = { id = "xyz.jpenilla.run-paper", version.ref = "runPaper" }
-j
